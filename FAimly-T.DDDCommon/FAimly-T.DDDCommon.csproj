@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>FAimly_T.DDDCommon</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.1.0</Version>
     <Authors>FAimly_T</Authors>
     <Product>DDDNetFramework</Product>
     <Description>DDDCommon</Description>
